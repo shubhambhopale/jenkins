@@ -1,1 +1,1 @@
-echo "This is a first Git Polling using NGROK."
+echo "This is a first Git Polling using NGROK url."
